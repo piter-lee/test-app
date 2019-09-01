@@ -1,0 +1,19 @@
+{
+  "appKey": "9PK0gpxEFCdNr8YNEWOnhKNvaGbIqUm4",
+  "appSecret": "HLQMIXUSoNARv7jSji2kyUaAZxTXtTgg",
+  "projectId": 61,
+  "id": 113,
+  "name": "test-app",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/piter-lee/test-app.git",
+    "isPrivate": 0,
+    "username": "piter_lee@163.com",
+    "password": "Dqshanshan0327"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
